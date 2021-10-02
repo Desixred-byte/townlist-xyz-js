@@ -89,8 +89,7 @@ client.on("ready", async () => {
   }
   */
 });
-
+```
 ### More Updates
 # Updates will be here, also the docs
 [Click the link](<https://api.townlist.xyz>)
-```

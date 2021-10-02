@@ -1,0 +1,29 @@
+{
+  "name": "townlist-xyz",
+  "version": "1.0.0",
+  "description": "Official API for sending stats to townlist.xyz",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Desixred-byte/townlist-xyz-js.git"
+  },
+  "keywords": [
+    "townlist",
+    "api",
+    "desixred",
+    "townlist-xyz"
+  ],
+  "author": "desixred",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Desixred-byte/townlist-xyz-js/issues"
+  },
+  "homepage": "https://github.com/Desixred-byte/townlist-xyz-js#readme"
+}
